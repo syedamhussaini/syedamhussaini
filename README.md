@@ -1,6 +1,6 @@
 # Hi, I'm Syed 👋
 
-I'm a recent **Computing & Information Technology graduate** from RIT Dubai (May 2026) based in Sharjah, UAE[cite: 1]. I enjoy building clean frontends, learning full-stack development, and exploring practical uses for AI[cite: 1].
+I'm a recent **Computing & Information Technology graduate** from RIT Dubai (May 2026) based in Sharjah, UAE. I enjoy building clean frontends, learning full-stack development, and exploring practical uses for AI.
 
 Currently looking for junior or entry-level opportunities where I can contribute, learn from experienced engineering teams, and expand my technical skills.
 
